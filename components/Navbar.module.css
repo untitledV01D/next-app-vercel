@@ -1,0 +1,12 @@
+.nav {
+  padding: 5px;
+}
+
+.nav a {
+  margin: 10px;
+  font-family: var(--font-mono);
+}
+
+.nav li {
+  display: inline-block;
+}
